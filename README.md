@@ -23,3 +23,13 @@ Share insights and collectively refine our models.
 Evaluation
 
 Our models will be evaluated based on their accuracy in predicting the overall worldwide box office revenue for movies. Ensuring the robustness and generalizability of our models is crucial, so we'll work together to validate and optimize them.
+
+## Links
+
+### TMDB Box Office Prediction
+https://www.kaggle.com/competitions/tmdb-box-office-prediction/overview
+### Progress Report
+https://docs.google.com/document/d/1ppjgF2maRBWUMvP9Cb_iAT6WC20gnVrTSLmT2n2OtuA/edit?usp=sharing
+### Colab
+https://colab.research.google.com/drive/1CoDdDiRuny5UIo1iMdOTjxSNm4TQgFPk?usp=sharing
+### Powerpoint
