@@ -26,10 +26,14 @@ Our models will be evaluated based on their accuracy in predicting the overall w
 
 ## Links
 
-### TMDB Box Office Prediction
-https://www.kaggle.com/competitions/tmdb-box-office-prediction/overview
-### Progress Report
-https://docs.google.com/document/d/1ppjgF2maRBWUMvP9Cb_iAT6WC20gnVrTSLmT2n2OtuA/edit?usp=sharing
 ### Colab
 https://colab.research.google.com/drive/1CoDdDiRuny5UIo1iMdOTjxSNm4TQgFPk?usp=sharing
+### Project Report
+https://docs.google.com/document/d/11xw3BAny9U-FnCOQUUuChQ4Bv95VAuiPF31lFrbdpp0/edit?usp=sharing
 ### Powerpoint
+https://docs.google.com/presentation/d/1uVEbla6C4ijEL7Azy_NrDM6DJozmlt6UtOUm6fENA0s/edit?usp=sharing
+### Progress Report
+https://docs.google.com/document/d/1ppjgF2maRBWUMvP9Cb_iAT6WC20gnVrTSLmT2n2OtuA/edit?usp=sharing
+### TMDB Box Office Prediction
+https://www.kaggle.com/competitions/tmdb-box-office-prediction/overview
+
